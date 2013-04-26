@@ -7,6 +7,7 @@
 -- Versão do servidor: 5.5.31
 -- versão do PHP: 5.4.6-1ubuntu1.2
 
+
 SET SQL_MODE="NO_AUTO_VALUE_ON_ZERO";
 SET time_zone = "+00:00";
 
