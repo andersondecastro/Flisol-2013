@@ -2,3 +2,6 @@ Flisol-2013
 ===========
 
 Para utilização no Flisol 2013
+
+- arquivo SQL da mini demonstração
+- Scripts Usados no CodeIgniter
